@@ -1,0 +1,1 @@
+Engine\Build\BatchFiles\RunUAT.bat gubp -Node=GatherRocket -TargetPlatforms=Win64 -NoSign
